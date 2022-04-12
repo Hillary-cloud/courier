@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include("headerTwo.php");
+include("headerOne.php");
 
 $con=mysqli_connect("localhost","root","","csms");
 
